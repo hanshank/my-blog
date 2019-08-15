@@ -1,7 +1,7 @@
 ---
 title: Slice It - Week 1
 description: Our team has been busy doing rapid prototyping this week. Let me tell you why this has been so key for us.
-date: 2018-05-01
+date: 2018-08-09
 tags:
   - slice-it
 layout: layouts/post.njk
